@@ -1,0 +1,46 @@
+body{
+	background-color: #D1E5E1;
+	text-decoration: none;
+	list-style: none;
+}
+
+ul{
+	height: 50px;
+	width: 100%;
+	list-style: none;
+	
+	border-bottom: 1px solid #1D1075;
+
+	
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	float: left;
+
+	padding: 10px;
+	margin: 10px;
+
+	border: 1px solid #1D1075;
+	border-top: 3px solid #1D1075;
+	border-bottom: 3px solid #D1E5E1;
+
+}
+
+section{
+	height: 300px;
+	width: 100%;
+	margin: 5px;
+	background-color: red;
+
+}
+
+
+/*.map:target{
+	background-color: #BADA55;
+}
+
+.fil:target{
+	background-color: #fff;
+}*/
